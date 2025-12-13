@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "街灯",
+  "base_artist": "BE:FIRST",
+  "createdAt": "2025-12-13T03:39:56.355706Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "街灯",
+      "artist": "吴林峰",
+      "has_synced": true,
+      "path": "select/01_街灯_吴林峰.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "街灯",
+      "artist": "BE:FIRST",
+      "has_synced": false,
+      "path": "select/pl_01_街灯_BE_FIRST.txt"
+    }
+  ]
+}
