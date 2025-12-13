@@ -1,0 +1,64 @@
+# BE:FIRST – 街灯
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+いつも変わり映えない
+街が今日は騒がしい
+乗っかっちゃえば楽しい
+ほらしかめっ面は無し
+誰だって目一杯
+腹の底から歌っちゃいなホーリーナイト
+The night is ours, right?
+さぁ皆 Party up, Hands up, Hands down
+浮かれっぱなしBabies
+遠慮すら無いし
+ハメは外しすぎるのが礼儀
+明日の予定なんてとりま飲み干そう
+No stay, I go 当然だろ?
+日が沈み夜が更けて
+魔法に染まって
+そうさもう二度と戻らない
+この夜を踊ろう
+街を照らす灯が
+君が隣にいる今日が
+特別な当たり前がずっと続きますように
+空に登る鐘の音が
+雪になって降り注いだ
+願うならこんな時間がずっと続きますように
+Lighting up the town loud loud loud loud loud
+Let love rain down down down down down
+Lighting up the town loud loud loud loud loud
+Let love rain down down down
+愚痴や嫉妬
+曇るウィンドウ
+バカらしいよ
+鳴らせDing dong
+掻き消しに行こう
+ヒト科の動物は所詮皆一緒
+遊べAll my people
+分かり合えるいつかきっと
+We are the same, We're all brothers and sisters
+I want you to know
+ぶっちゃけどうでもいいような人のストーリー
+比べられ比べるのはもういい
+君が愛しい今日に酔ってたい Oh my word
+No stay, I go 当然だろ?
+夜が明けて日が昇り
+魔法が解けて
+いつか思い出に変わってく
+この夜を踊ろう
+もしも急に世界が
+明日終わるとしても
+最後までずっと君と笑っていられますように
+街を照らす灯が
+君が隣にいる今日が
+特別な当たり前がずっと続きますように
+空に登る鐘の音が
+雪になって降り注いだ
+願うならこんな時間がずっと続きますように
+Lighting up the town loud loud loud loud loud
+Let love rain down down down down down
+Lighting up the town loud loud loud loud loud
+Let love rain down down down
+```
